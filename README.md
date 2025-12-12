@@ -15,4 +15,4 @@ I am particularly interested in fields involving multi-agent systems and game AI
   - [DEATH STRANDING](https://deathstrandingpc.505games.com/ja/)    
 ```
 ## skils
-TOEIC 395                                                   (TT)
+TOEIC 395 (TT)
