@@ -14,3 +14,5 @@ I am particularly interested in fields involving multi-agent systems and game AI
   - [学園アイドルマスター](https://gakuen.idolmaster-official.jp/)
   - [DEATH STRANDING](https://deathstrandingpc.505games.com/ja/)    
 ```
+## skils
+TOEIC 395
