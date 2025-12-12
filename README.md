@@ -4,6 +4,7 @@ I am a student in the Knowledge and Library Sciences program at the University o
 I am particularly interested in fields involving multi-agent systems and game AI.
 > [detail](https://romanohu.github.io/)
 ## favorites
+```
 - [鏑木ろこ](https://www.youtube.com/@KaburakiRoco)
 - [伊坂幸太郎](https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%9D%82%E5%B9%B8%E5%A4%AA%E9%83%8E)
 - movie
@@ -12,3 +13,4 @@ I am particularly interested in fields involving multi-agent systems and game AI
 - game
   - [学園アイドルマスター](https://gakuen.idolmaster-official.jp/)
   - [DEATH STRANDING](https://deathstrandingpc.505games.com/ja/)    
+```
