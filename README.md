@@ -11,7 +11,6 @@ I am particularly interested in fields involving multi-agent systems and game AI
   - Sir Christopher Nolan
   - 阪元裕吾
 - game
+  - フロム・アトラス作品
   - 学園アイドルマスター
-  - 崩壊スターレイル
-  - DEATH STRANDING  
 ```
